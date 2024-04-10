@@ -1,6 +1,6 @@
 module.exports = {
     PORT: 3000,
-    MONGODB_URI: '',
+    MONGODB_URI: 'mongodb+srv://arko:123@cluster0.fyqi71i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     JWT_SECRET: 'screenshot'
   };
   
